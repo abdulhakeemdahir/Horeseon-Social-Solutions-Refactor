@@ -37,21 +37,21 @@ THEN I find a concise, descriptive title
 The follwing are all of the changes that I have made for the code refactor:
 
 ### HTML
-
+```
 - Added a new website Title
 - Changed html elements to semantic elements: HEADER, NAV, MAIN, ASIDE, SECTION, and FOOTER tags.
 - Added ID tags
 - Linked ID tags to anchor links for in-page linking
 - Changed CLASS names to more suitable variation
 - Made sure code is logical and have correct hierarchy
-
+```
 ### CSS
-
+```
 - Changed CSS selectors to correct elements in html
 - Changed order of CSS selectors to be in line with html
 - Consolidated CSS selectors
 - Deleted repeating and unnecessary CSS
-
+```
 ## Live Project Site
 
 https://abdulhakeemdahir.github.io/Horeseon-Social-Solutions-Refactor/#search-engine-optimization
