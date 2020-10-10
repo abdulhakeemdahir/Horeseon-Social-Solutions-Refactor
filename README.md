@@ -1,5 +1,17 @@
 # Horiseon-Social-Solutions-Refactor
 
+## Table of Contents
+
+* [Developer Profile](#developer-profile)
+* [Client Request](#client-request)
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Changes](#changes)
+* [Live Project Site](#live-project-site)
+* [Installation and Git Repository](#installation-and-git-repository)
+* [Credits](#credits)
+
+
 ## Developer Profile
 
 My name is Abdulhakeem Dahir and I am an aspiring Software Developer. I have always had an interest in programming, but was too afraid to pursue a career as I felt it was too daunting of a task. Even though we are living in difficult times in 2020, I decided to take the plunge. I hope that my work will show my development as a Developer and my growth in this field. This is my first project, so here goes.
@@ -65,12 +77,17 @@ https://abdulhakeemdahir.github.io/Horeseon-Social-Solutions-Refactor/
 
 ![](assets/readme-images/horiseon_refactor.png)
 
-## Installation and Git Respository
-
-Please follow the installation process below:
-
-1. Fork the following repository from the link below
+## Installation and Git Repository
 
 Respository: https://github.com/abdulhakeemdahir/Horeseon-Social-Solutions-Refactor
 
-2. Once you've forked the repository, please open the file with the text editor of your choice.
+Please follow the installation process below:
+```
+1. Fork the repository from the link above
+2. Clone the repo to your computer via git
+3. Open the project files with the text editor of your choice.
+```
+
+## Credits
+
+A special thank you to Keenan Reed for sharing the optimized and compressed image files. 
