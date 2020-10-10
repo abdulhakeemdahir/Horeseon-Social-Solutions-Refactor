@@ -52,6 +52,13 @@ The follwing are all of the changes that I have made for the code refactor:
 - Consolidated CSS selectors
 - Deleted repeating and unnecessary CSS
 ```
+
+### Images
+```
+- Original files were over 5mb
+- Used optimized and compressed files for faster load
+```
+
 ## Live Project Site
 
 https://abdulhakeemdahir.github.io/Horeseon-Social-Solutions-Refactor/#search-engine-optimization
