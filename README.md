@@ -61,7 +61,7 @@ The follwing are all of the changes that I have made for the code refactor:
 
 ## Live Project Site
 
-https://abdulhakeemdahir.github.io/Horeseon-Social-Solutions-Refactor/#search-engine-optimization
+https://abdulhakeemdahir.github.io/Horeseon-Social-Solutions-Refactor/
 
 ![](assets/readme-images/horiseon_refactor.png)
 
