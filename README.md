@@ -2,7 +2,7 @@
 
 ## Developer Profile
 
-My name is Abdulhakeem Dahir and I am an aspiring Software Developer. I have always had an interest in programming, but was too afraid to pursue a career as I felt it was too daunting of task. Even though we are living in difficult times in 2020, I decided to take the plunge. I hope that my work will show my development as a Developer and my growth in this field. This is my first project, so here goes.
+My name is Abdulhakeem Dahir and I am an aspiring Software Developer. I have always had an interest in programming, but was too afraid to pursue a career as I felt it was too daunting of a task. Even though we are living in difficult times in 2020, I decided to take the plunge. I hope that my work will show my development as a Developer and my growth in this field. This is my first project, so here goes.
 
 ## Client Request
 
